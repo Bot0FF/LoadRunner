@@ -1,0 +1,8 @@
+*.bak
+*.log
+*.txt
+*.db
+*.json
+*.idx
+data/
+result1/
