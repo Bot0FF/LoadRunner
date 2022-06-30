@@ -64,10 +64,16 @@
     <FileEntry Name="logfile.log" Filter="1" />
     <FileEntry Name="lrw_custom_body.h" Filter="1" />
     <FileEntry Name="mdrv.log" Filter="1" />
+    <FileEntry Name="mdrv0nb.835.log" Filter="1" />
     <FileEntry Name="mdrv2tw.579.log" Filter="1" />
+    <FileEntry Name="mdrvDcf.791.log" Filter="1" />
+    <FileEntry Name="mdrvg00.973.log" Filter="1" />
     <FileEntry Name="mdrvjao.861.log" Filter="1" />
+    <FileEntry Name="mdrvLge.403.log" Filter="1" />
+    <FileEntry Name="mdrvnxX.783.log" Filter="1" />
     <FileEntry Name="mdrvOIk.431.log" Filter="1" />
     <FileEntry Name="mdrvSxK.649.log" Filter="1" />
+    <FileEntry Name="mdrvtKb.361.log" Filter="1" />
     <FileEntry Name="mdrvZk8.429.log" Filter="1" />
     <FileEntry Name="mdrv_cmd.txt" Filter="1" />
     <FileEntry Name="options.txt" Filter="1" />
