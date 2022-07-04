@@ -1,7 +1,30 @@
 ﻿[SLASupervisor_BasicInfo]
-NumFilters=1
+NumFilters=2
 
 [AdditionalFilter0]
+DimensionType=Discrete
+InternalDimName=Event Name
+Dimension=Transaction Name
+EqualFlag=1
+DimensionTableName=Event_map
+NumValues=12
+UseEscapeSequence=1
+DimCount=12
+Dim_0=cancel_ticket
+Dim_1=check_destination
+Dim_2=choose_price
+Dim_3=click_flights
+Dim_4=customer_profile
+Dim_5=details
+Dim_6=itinerary
+Dim_7=log_in
+Dim_8=log_out
+Dim_9=open_webTours
+Dim_10=sing_up
+Dim_11=sucsess_continue
+LikeMode=0
+
+[AdditionalFilter1]
 DimensionType=Continuous
 InternalDimName=End Time
 Dimension=Scenario Elapsed Time
@@ -9,8 +32,8 @@ EqualFlag=1
 DimensionTableName=Event_meter
 NumValues=1
 DimCount=2
-Dim_0=2700.000000
-Dim_1=3900.000000
+Dim_0=3990.000000
+Dim_1=5190.000000
 
 [DimensionFunctions]
 DimeFuncCount=1

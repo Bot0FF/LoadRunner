@@ -34,7 +34,7 @@ MonAgg=0
 ErrAgg=0
 FilterEdge=0
 FSartTime=0
-FEndTime=84600
+FEndTime=0
 
 [Result0]
 LRRID=
@@ -59,7 +59,7 @@ Schedule Name=Schedule 1
 Mode=Scenario Scheduling
 Load Behavior=Initialize each Vuser just before it runs
 Scenario Duration=Start 10 Vusers: 1 every 00:00:02 (HH:MM:SS); Run for 00:22:00 (HH:MM:SS); Start 10 Vusers: 1 every 00:00:02 (HH:MM:SS); Run for 00:22:00 (HH:MM:SS); Start 10 Vusers: 1 every 00:00:02 (HH:MM:SS); Run for 00:22:00 (HH:MM:SS); Start 10 Vusers: 1 every 00:00:02 (HH:MM:SS); Run for 00:22:00 (HH:MM:SS); Start 10 Vusers: 1 every 00:00:02 (HH:MM:SS); Run for 00:22:00 (HH:MM:SS); Stop all Vusers simultaneously
-NumGraphs=9
+NumGraphs=19
 
 [DimensionFunctions]
 DimeFuncCount=0
